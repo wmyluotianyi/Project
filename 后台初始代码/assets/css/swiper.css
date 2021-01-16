@@ -1,0 +1,22 @@
+.layui-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 5px;
+}
+
+.layui-table img {
+    max-height: 30px;
+}
+
+.layui-badge {
+    cursor: pointer;
+}
+
+.show {
+    display: inline-block;
+}
+
+.hide {
+    display: none;
+}
